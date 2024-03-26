@@ -1,0 +1,138 @@
+h1 {
+    text-align: center;
+    font-weight: 200;
+    font-family: sans-serif;
+    font-size: 60px;
+}
+
+#kafka {
+    display: block;
+    width: 75px;
+    border: 10px solid black;
+    border-radius: 40px;
+    
+    
+}
+.box {
+    width: 100%;
+    margin-top: 25px;
+    background-color: black;
+    height: 75px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-radius: 40px;
+
+}
+
+#quote {
+    text-align: center;
+    font-family: cursive;
+    border: 3px dotted black;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+
+h2 {
+    margin-top: 120px;
+    margin-left: 70px;
+}
+#coc {
+    width: 500px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+hr {
+    border: 2px dotted black;
+}
+
+.bio {
+
+    width: 200px;
+    border: 2px solid #D8D8D8;
+    margin-top: 10px;
+    margin-right: 10px;
+  
+}
+
+.image {
+    width: 350px;
+    border: 2px solid #D8D8D8;
+    
+}
+
+.flex-container {
+    display: block;
+    
+}
+.pclass {
+    float: right;
+    margin-top: -550px;
+    margin-left: 400px;
+    font-size: 24px;
+}
+
+table, th, td {
+    border: 2px solid #D8D8D8;
+    border-collapse: collapse;
+}
+
+.break {
+    margin: 30px;
+}
+
+.pclass2 {
+    font-size: 24px;
+    margin-top: -10px;
+}
+
+nav > ul {
+     display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  align-items: center;
+  height: 100%;
+    font-size: 30px;
+  
+}
+
+nav > ul > li {
+    display: block; 
+    color: #dfdfe2;
+    margin-top: -220px;
+}
+
+a:link {
+    color: white;
+    text-decoration: none;
+    
+    
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: purple;
+}
+
+#bioo {
+   margin-right: 300px; 
+}
+
+#age5 {
+    width: 200px;
+    float: right;
+    margin-top: -170px;
+}
+
+.figcap {
+    margin-top: 50px;
+    float: right;
+    margin-right: -130px;
+}
